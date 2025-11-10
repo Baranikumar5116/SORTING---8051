@@ -57,10 +57,10 @@ END
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
-<img width="1868" height="597" alt="image" src="https://github.com/user-attachments/assets/a4c27b4a-e74f-44a7-a325-201a5d1f5c08" />
+<img width="1967" height="541" alt="image" src="https://github.com/user-attachments/assets/0255fd3a-b9fe-4183-9d0a-e811dc5bef32" />
 
 After execution: D:0x40H:
-<img width="1867" height="1024" alt="image" src="https://github.com/user-attachments/assets/31a0e40b-646c-4030-b02e-0942c758565f" />
+<img width="1912" height="504" alt="image" src="https://github.com/user-attachments/assets/dcb4ac29-20f8-4c42-9e48-20de7accb30b" />
 
 
 
@@ -116,11 +116,11 @@ END
 
 **Before execution:**
 D:0x40H:
-<img width="1862" height="585" alt="image" src="https://github.com/user-attachments/assets/ceb4bfd2-104e-413b-9ffb-148fb8b3800e" />
+<img width="1918" height="501" alt="image" src="https://github.com/user-attachments/assets/e5d750fd-f073-409b-989d-af1cab0f5e1f" />
 
 After execution:
 D:0x40H:
-<img width="1860" height="1028" alt="image" src="https://github.com/user-attachments/assets/b919d66c-3435-44e5-add8-4c408f9cff95" />
+<img width="2355" height="617" alt="image" src="https://github.com/user-attachments/assets/2e29191f-f918-4f54-8f13-64e52e77bc03" />
 
 **Result:**
 
